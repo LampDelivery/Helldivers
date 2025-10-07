@@ -2,7 +2,7 @@
 Helldivers inspired theme for Aliucord
 
 ## Preview
-![1](https://files.catbox.moe/uyei7k.png)
+![1](https://files.catbox.moe/djk46f.jpg)
 
 ### ALERT TO ALL HELLDIVERS
 Transmission from Super Earth Command – Democracy Officer Briefing
