@@ -33,4 +33,4 @@ For Super Earth. For Interface Discipline. For Democracy.
 - Left Align Multiline disabled
 
 <sub><sup>Terms and Conditions Apply:  
-Theme may induce uncontrollable urges to shout “FOR SUPER EARTH!” in voice channels. Side effects include increased tactical awareness, spontaneous stratagem deployment, and intolerance for bugs, bots, and bureaucrats. Super Earth is not responsible for friendly fire incidents, orbital miscalculations, or accidental liberation of furniture. Use responsibly. Obey without question. Glory to Managed Democracy™.</sub></sup>
+This theme may induce uncontrollable urges to shout “FOR SUPER EARTH!” in voice channels. Side effects include increased tactical awareness, spontaneous stratagem deployment, and intolerance for bugs, bots, and bureaucrats. Super Earth is not responsible for friendly fire incidents, orbital miscalculations, or accidental liberation of furniture. Use responsibly. Obey without question. Glory to Managed Democracy™.</sub></sup>
