@@ -1,5 +1,4 @@
 # Helldivers
-Helldivers inspired theme for Aliucord
 
 ## Preview
 ![1](https://files.catbox.moe/djk46f.jpg)
