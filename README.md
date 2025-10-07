@@ -4,7 +4,7 @@
 ![1](https://files.catbox.moe/djk46f.jpg)
 
 ### ALERT TO ALL HELLDIVERS
-Transmission from Super Earth Command – Democracy Officer Briefing
+Transmission from Super Earth Command - Briefing
 
 Citizens! Your interface has been compromised by inefficiency and aesthetic heresy. But fear not—Super Earth has authorized the deployment of the Helldivers Discord Theme!
 
