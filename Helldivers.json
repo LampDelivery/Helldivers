@@ -3,7 +3,7 @@
         "version": "1.0",
         "author": "cbani",
         "name": "Helldivers",
-        "updater": "https:\/\/raw.githubusercontent.com\/rennpy\/TokyoNight\/main\/TokyoNight.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/LampDelivery\/Helldivers\/main\/Helldivers.json"
     },
     "background": {},
     "fonts": {
