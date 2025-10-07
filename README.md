@@ -16,7 +16,7 @@ Citizens! Your interface has been compromised by inefficiency and aesthetic here
 - Message boxes mimic encrypted transmission consoles.
 - Notifications? Recast as priority alerts from Super Earth HQ.
 
-This theme doesn’t just modify Discord—it liberates it. Every scroll, click, and emoji is now a salute to democracy. You’re not chatting. You’re coordinating planetary liberation.
+This theme doesn’t just reshape Discord—it liberates it. Every scroll, click, and emoji is now a salute to democracy. You’re not chatting. You’re coordinating planetary liberation.
 
 Install it. Deploy it. Spread it.  
 Because freedom isn’t free—it’s color-coded, mission-stamped, and ergonomically optimized.
