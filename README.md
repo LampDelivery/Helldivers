@@ -6,7 +6,7 @@
 ### ALERT TO ALL HELLDIVERS
 Transmission from Super Earth Command - Briefing
 
-Citizens! Your interface has been compromised by inefficiency and aesthetic heresy. But fear not—Super Earth has authorized the deployment of the Helldivers Discord Theme!
+Citizens! Your interface has been compromised by inefficiency and undemocratic heresy. But fear not—Super Earth has authorized the deployment of the Helldivers Discord Theme!
 
 - Background: A tactical blend of deep black and reinforced steel gray, evoking the hull of a Hellpod mid-drop.
 - Accent Colors: Glorious golds and symbols of valor, sacrifice, and orbital superiority.
