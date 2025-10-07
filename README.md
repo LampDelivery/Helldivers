@@ -19,6 +19,7 @@ Install it. Deploy it. Spread it.
 Because freedom isn’t free—it’s color-coded, mission-stamped, and ergonomically optimized.
 
 For Super Earth. For Interface Discipline. For Democracy.
+
 <sub><sup>Terms and Conditions Apply:  
 This theme may induce uncontrollable urges to shout “FOR SUPER EARTH!” in voice channels. Side effects include increased tactical awareness, spontaneous stratagem deployment, and intolerance for bugs, bots, and bureaucrats. Super Earth is not responsible for friendly fire incidents, orbital miscalculations, or accidental liberation of furniture. Use responsibly. Obey without question. Glory to Managed Democracy™.</sub></sup>
 > [!IMPORTANT]
