@@ -12,8 +12,6 @@ Citizens! Your interface has been compromised by inefficiency and aesthetic here
 - Background: A tactical blend of deep black and reinforced steel gray, evoking the hull of a Hellpod mid-drop.
 - Accent Colors: Glorious golds and symbols of valor, sacrifice, and orbital superiority.
 - Fonts: Bold, utilitarian typefaces approved by the Ministry of Readability. No cursive. No nonsense.
-- Icons: Replaced with mission-grade insignia—each ping, DM, and server switch now feels like a call to arms.
-- Message boxes mimic encrypted transmission consoles.
 - Notifications? Recast as priority alerts from Super Earth HQ.
 
 This theme doesn’t just reshape Discord—it liberates it. Every scroll, click, and emoji is now a salute to democracy. You’re not chatting. You’re coordinating planetary liberation.
@@ -33,3 +31,5 @@ For Super Earth. For Interface Discipline. For Democracy.
 ## HighlightOwnMessages (also optional)
 - Right and Left enabled
 - Left Align Multiline disabled
+<sub><sup>Terms and Conditions Apply:  
+Theme may induce uncontrollable urges to shout “FOR SUPER EARTH!” in voice channels. Side effects include increased tactical awareness, spontaneous stratagem deployment, and intolerance for bugs, bots, and bureaucrats. Super Earth is not responsible for friendly fire incidents, orbital miscalculations, or accidental liberation of furniture. Use responsibly. Obey without question. Glory to Managed Democracy™.</sup></sub>
