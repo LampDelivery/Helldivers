@@ -13,7 +13,7 @@ Citizens! Your interface has been compromised by inefficiency and undemocratic h
 - Fonts: Bold, utilitarian typefaces approved by the Ministry of Readability. No cursive. No nonsense.
 - Notifications? Recast as priority alerts from Super Earth HQ.
 
-This theme doesn’t just reshape Discord—it liberates it. Every scroll, click, and emoji is now a salute to democracy. You’re not chatting. You’re coordinating planetary liberation.
+This theme doesn’t just reshape Discord—it liberates it. Every scroll, click, and emoji is now a salute to democracy.
 
 Install it. Deploy it. Spread it.  
 Because freedom isn’t free—it’s color-coded, mission-stamped, and ergonomically optimized.
